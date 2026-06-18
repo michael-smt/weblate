@@ -20,7 +20,7 @@ TBX is an XML format for the exchange of terminology data.
 Explanations
 ++++++++++++
 
-Weblate loads and saves explanation from TBX files to be displayed in :ref:`glossary`.
+Weblate loads and saves :ref:`format-explanation`: from TBX files to be displayed in :ref:`glossary`.
 
 * Translation explanation is stored as ``<note from="translator"></note>`` tag.
 * Source string explanation is stored as ``<descrip></descrip>`` tag.
